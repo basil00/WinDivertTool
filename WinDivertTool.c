@@ -26,6 +26,7 @@
 /* WINDIVERT.DLL                                                            */
 /****************************************************************************/
 
+#define WINDIVERTEXPORT static
 #include "dll/windivert.c"
 
 #include <windows.h>

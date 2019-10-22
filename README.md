@@ -14,7 +14,7 @@ What is WinDivert?
 
 WinDivert is an open source (LGPL) software package for capturing and
 modifying network packets for Windows.  WinDivert was originally developed as
-part of the (ReQrypt)(https://github.com/basil00/reqrypt] project for
+part of the [ReQrypt](https://github.com/basil00/reqrypt) project for
 tunneling HTTP(S) traffic.  Since then, WinDivert has used by many
 applications such as packet filtering, packet sniffing, firewalls, NATs,
 VPNs, tunneling applications, etc.  Some projects that use WinDivert include:
